@@ -1,0 +1,12 @@
+Sequence: 0
+URL: https://mysecuresite.thm/
+User Name: Administrator
+Password: Sup3rPaS$w0rd1
+
+**************************************************
+Sequence: 1
+URL: https://worksite.thm/
+User Name: chrome
+Password: Sup3rSecuR3!
+
+**************************************************
